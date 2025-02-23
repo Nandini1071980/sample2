@@ -1,2 +1,2 @@
 # sample2
-practice of git and github
+practice of git and github.
